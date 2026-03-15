@@ -2,6 +2,8 @@
 
 Cloak402 is an autonomous travel booking agent that searches and books flights while preserving user privacy through ephemeral wallets, x402 micropayments, and an AI agent (OpenClaw) that enforces strict disclosure policies.
 
+Link to our whitepaper - [Cloak402](https://drive.google.com/file/d/151_EmVE_ZcyXDl5ipDVTfMEvUIUPwQo-/view?usp=drive_link)
+
 **Built for ETHMumbai on Base Sepolia.**
 
 ## How It Works
